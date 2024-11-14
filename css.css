@@ -1,0 +1,54 @@
+body{
+    font-size: 24px; /* Размер шрифта */
+    border: none;
+    width: 100%;
+    position: absolute;
+    background-color: #fa0;
+    padding: 0px;
+    margin: 0px;
+    /* color: #000; */
+}
+.back{
+    text-decoration: none;
+    color: blue;
+    font-size: 32px;
+    width: 100%;
+    position: relative;
+    background-color: transparent;
+    padding: 0px;
+    margin: 0px;
+    top: 0px;    
+    height: 5vh;
+}   
+
+.bar{
+    position: relative;
+    top: 0px;
+    width: 100%;
+    height: 5vh;
+    display: flex;
+  }
+
+.bar button{
+    margin: 0px 0px;
+    width: 50%;
+    text-decoration: none;
+    position: relative;
+    background-color: transparent;
+
+  }
+  .nav{
+    bottom: 0px;
+    width: 100%;
+    display: flex;
+  }
+
+  .nav button{
+    margin: 0px 0px;
+    width: 50%;
+    text-decoration: none;
+    color: #f46;
+    position: relative;
+    background-color: transparent;
+
+  }
